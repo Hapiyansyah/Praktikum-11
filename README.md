@@ -1,6 +1,6 @@
 ## Praktikum 11
 
-a
+![foto3](foto/foto3.png)
 
 - pip install requests digunakan untuk menginstal package requests pada python. package requests berfungsi untuk melakukan HTTP requests pada python.
 - pip install BeautifulSoup4 digunakan untuk menginstal package BeautifulSoup4 pada python. package ini digunakan untuk mengelola data dari HTML atau XML.
@@ -8,7 +8,7 @@ a
 
 ## Web Scraping
 
-a
+![foto1](foto/foto1.png)
 
 ### Penjelasan
 
@@ -19,4 +19,4 @@ a
 
 ### Output
 
-
+![foto2](foto/foto2.png)
